@@ -1,0 +1,192 @@
+{
+  "brand": "Samo Boutique",
+  "contactMode": "whatsapp",
+  "phone": "96181860543",
+  "displayPhone": "+961 81 860 543",
+  "instagram": "https://www.instagram.com/samoboutique/",
+  "hours": "Confirm with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-02.jpg",
+  "galleryImages": [
+    "/images/collection-02.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-13.jpg"
+  ],
+  "products": [
+    {
+      "id": "beige-fluid-set",
+      "name": "Beige Fluid Set",
+      "collection": "Coordinated sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A beige fluid two-piece look photographed in an official collaboration coauthored by Samo Boutique and Assil Ossman on November9,2026. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg",
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/assil.ossman/p/DfiJhl7kU2O/"
+    },
+    {
+      "id": "grey-poncho-look",
+      "name": "Grey Poncho Look",
+      "collection": "Capes & ponchos",
+      "audience": "The edit",
+      "family": "",
+      "description": "A light-grey draped poncho styled with jeans. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/Dfu23_vI9Yz/"
+    },
+    {
+      "id": "chocolate-poncho-look",
+      "name": "Chocolate Poncho Look",
+      "collection": "Capes & ponchos",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown draped top or poncho with shoulder-button details. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfsMjcTIvU3/"
+    },
+    {
+      "id": "checked-lining-jacket",
+      "name": "Checked-Lining Jacket Edit",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "Two views of a dark jacket with checked lining detail, styled with jeans. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg",
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfpfQ2YIFZ7/"
+    },
+    {
+      "id": "brown-cuff-jacket",
+      "name": "Brown Cuff Jacket",
+      "collection": "Jackets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark-brown outerwear look with checked cuff details. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfpWIddI7vS/"
+    },
+    {
+      "id": "denim-crop-look",
+      "name": "Cropped Denim Look",
+      "collection": "Denim",
+      "audience": "The edit",
+      "family": "",
+      "description": "A cropped blue denim jacket styled over a burgundy outfit. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfmojVgIZn-/"
+    },
+    {
+      "id": "brown-drape-look",
+      "name": "Brown Drape Look",
+      "collection": "Everyday looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown draped styling look paired with pale trousers. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfhzBRRIWsM/"
+    },
+    {
+      "id": "long-denim-look",
+      "name": "Long Denim Look",
+      "collection": "Denim",
+      "audience": "The edit",
+      "family": "",
+      "description": "A long dark denim outerwear look with light contrast seams. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-12.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfhlrYSIjqa/"
+    },
+    {
+      "id": "chocolate-track-set",
+      "name": "Chocolate Track Set",
+      "collection": "Coordinated sets",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown coordinated zip-front casual set with pale contrast stripes. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-13.jpg"
+      ],
+      "source": "https://www.instagram.com/samoboutique/reel/DfZ98dMIgsn/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Haret Hreik, Lebanon — linked location",
+      "mapUrl": "https://maps.google.com/?q=33.853397%2C35.509193",
+      "mapType": "Coordinates linked from official Instagram; Maps resolves to Haret Hreik"
+    }
+  ]
+}

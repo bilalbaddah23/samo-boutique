@@ -1,0 +1,423 @@
+{
+  "brand": "Samo Boutique",
+  "handle": "samoboutique",
+  "instagram": "https://www.instagram.com/samoboutique/",
+  "contactMode": "whatsapp",
+  "phone": "96181860543",
+  "displayPhone": "+961 81 860 543",
+  "hours": "Confirm with the boutique",
+  "followersObserved": 96990,
+  "followersDisplay": "97.0K",
+  "postCountObserved": null,
+  "latestVisiblePost": "2026-11-14",
+  "researchDate": "2026-11-16",
+  "profileObservedDate": "2026-11-15",
+  "profileBio": "✨Beauty in modesty\n▪️Exquisite quality\n▪️Exchange available-no refund-no cancellation\n📲Dm or Wsp for orders81860543",
+  "bioLinks": [
+    "https://wa.me/96181860543",
+    "https://maps.google.com/?q=33.853397%2C35.509193"
+  ],
+  "branches": [
+    {
+      "name": "Haret Hreik, Lebanon — linked location",
+      "mapUrl": "https://maps.google.com/?q=33.853397%2C35.509193",
+      "mapType": "Coordinates linked from official Instagram; Maps resolves to Haret Hreik"
+    }
+  ],
+  "about": "Samo Boutique presents women’s modest fashion through its public Instagram collection, including draped layers, jackets, denim and coordinated looks. Its official profile provides WhatsApp ordering and a location link in Haret Hreik, Lebanon.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-02.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-01.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-01.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-02.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-03.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-04.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-05.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-06.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-07.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-08.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-09.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-10.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-11.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-12.jpg",
+    "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-13.jpg"
+  ],
+  "products": [
+    {
+      "id": "beige-fluid-set",
+      "name": "Beige Fluid Set",
+      "category": "Coordinated sets",
+      "description": "A beige fluid two-piece look photographed in an official collaboration coauthored by Samo Boutique and Assil Ossman on November9,2026. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-02.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-01.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-03.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/assil.ossman/p/DfiJhl7kU2O/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "grey-poncho-look",
+      "name": "Grey Poncho Look",
+      "category": "Capes & ponchos",
+      "description": "A light-grey draped poncho styled with jeans. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/Dfu23_vI9Yz/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "chocolate-poncho-look",
+      "name": "Chocolate Poncho Look",
+      "category": "Capes & ponchos",
+      "description": "A brown draped top or poncho with shoulder-button details. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfsMjcTIvU3/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "checked-lining-jacket",
+      "name": "Checked-Lining Jacket Edit",
+      "category": "Jackets",
+      "description": "Two views of a dark jacket with checked lining detail, styled with jeans. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-07.jpg",
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfpfQ2YIFZ7/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "brown-cuff-jacket",
+      "name": "Brown Cuff Jacket",
+      "category": "Jackets",
+      "description": "A dark-brown outerwear look with checked cuff details. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfpWIddI7vS/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "denim-crop-look",
+      "name": "Cropped Denim Look",
+      "category": "Denim",
+      "description": "A cropped blue denim jacket styled over a burgundy outfit. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfmojVgIZn-/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "brown-drape-look",
+      "name": "Brown Drape Look",
+      "category": "Everyday looks",
+      "description": "A brown draped styling look paired with pale trousers. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfhzBRRIWsM/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "long-denim-look",
+      "name": "Long Denim Look",
+      "category": "Denim",
+      "description": "A long dark denim outerwear look with light contrast seams. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfhlrYSIjqa/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "chocolate-track-set",
+      "name": "Chocolate Track Set",
+      "category": "Coordinated sets",
+      "description": "A brown coordinated zip-front casual set with pale contrast stripes. Ask the boutique to confirm materials, sizes, current price and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-13.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfZ98dMIgsn/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "assets": [
+    {
+      "alt": "Photo by A S S I L on November 09, 2026. May be an image of headscarf and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-01.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/894543158_17916857370549563_4733669804853174196_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjgyMjY3NzE4Nzg5MzUyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Esa2JS_YgjgQ7kNvwFk2by6&_nc_oc=Ado83qaVwGTOWgCEL3e-9vmQBDRLkT5lOwVQ9TC8nkG7XWaTZ1NVM5xuNm5rK8qxdyM&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=B1rnOKgyAAAYHzTa_oursg&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT0YGHabMGFxuCN4XPK3XoydxZZmVA2IlqOP7VUHU7v0A&oe=6AFFF7EB",
+      "sourcePost": "https://www.instagram.com/assil.ossman/p/DfiJhl7kU2O/",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "208f741e6f2cad1ffbf08c2cc193018c9d583b37a922e39a1315bc13bf2c0c03",
+      "sourceImageType": "Instagram photo/carousel still; official collaboration with Samo Boutique",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-09",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Photo by A S S I L on November 09, 2026. May be an image of headscarf, scarf, turban, head covering and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-02.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/902095802_17916857355549563_8976615215005748602_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjgyMjcyNTc1NzkxNDAxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=podHnQSAnFcQ7kNvwGkKtiw&_nc_oc=Adqv-ideWCBX5oPImuOaYAqLLMp2kWQ6IDPv1aOX8A6F7_5QElucjVXW2WMSHWZzkoQ&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=B1rnOKgyAAAYHzTa_oursg&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRHFsYhG6D59bgCw1GZwhfyV4Ik6bk9-rRWxNanYp_OHQ&oe=6AFFF155",
+      "sourcePost": "https://www.instagram.com/assil.ossman/p/DfiJhl7kU2O/",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "3a320be9a2101487c9bcfadf82b07c3afe7e243cb10ff78744e13b2a4d0a95de",
+      "sourceImageType": "Instagram photo/carousel still; official collaboration with Samo Boutique",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-09",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Photo by A S S I L on November 09, 2026. May be an image of headscarf and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-03.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/891099553_17916857343549563_2295371739571220026_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjgyMjcyNTMzMDI1Mzc3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RzgsiIqBxgcQ7kNvwE-GW0b&_nc_oc=Adqd7Y_ZYfor2qj0lEUMN1ADQsb_BQ1vtxtfgR3la6B3hbLKMuWYObRUxcFQKYcREoM&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=B1rnOKgyAAAYHzTa_oursg&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSAZ0lB3NlyHGN2yC2VCL4h-jF1scj8ulIsRCHGwQ46XA&oe=6B001448",
+      "sourcePost": "https://www.instagram.com/assil.ossman/p/DfiJhl7kU2O/",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "eea1ae2051acaf781ca3393a1bee3ecbaf956deda238c0eababaa483bedbd7f1",
+      "sourceImageType": "Instagram photo/carousel still; official collaboration with Samo Boutique",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-09",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Photo by A S S I L on November 09, 2026. May be an image of headscarf, turban, dress and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-04.jpg",
+      "sourceUrl": "https://instagram.fbey4-2.fna.fbcdn.net/v/t51.82787-15/899670162_17916857361549563_3592729056849006302_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAyNjgyMjgxNTA3OTk3MDQzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=61BPaYWk80wQ7kNvwGXMIS7&_nc_oc=AdrZoQ6ZBreBDQBpSHvlMY_lEvOEen6zDL8i-3ZRSlWoj0zWXO7d85yyFStGddWOl3Q&_nc_zt=23&_nc_ht=instagram.fbey4-2.fna&_nc_gid=B1rnOKgyAAAYHzTa_oursg&_nc_ss=7ba8c&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSaLMAWqG6_5kmZOk-pfX9OdtaHtnG9spchcYOLtT0-AQ&oe=6B000E16",
+      "sourcePost": "https://www.instagram.com/assil.ossman/p/DfiJhl7kU2O/",
+      "width": 3024,
+      "height": 4032,
+      "sha256": "09eac65a7929eac2337effc47751d25d69aa79bc225a74038a917d4319be9c84",
+      "sourceImageType": "Instagram photo/carousel still; official collaboration with Samo Boutique",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-09",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 14, 2026. May be an image of headscarf, scarf, coat, cloak, turban, poncho and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-05.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/910381210_18470974471140257_4141853061292824568_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mnLZb5wsdZsQ7kNvwHMtJYe&_nc_oc=AdpCuxbMumrd2HIBVBLtWJW-3EFSrvx8NHGqzbPZT2ZgRf7PieIS7ee5tGt366ZentU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQZSO3i5FlR4dqsU0pKxLSExoa2WwFJSCF3M6AeG22__w&oe=6AFFEC12",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/Dfu23_vI9Yz/",
+      "width": 360,
+      "height": 640,
+      "sha256": "673e1f53fac69ac9abdefcc32250909957099ef4c60fe2cc95e980663a9e22f5",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-14",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 13, 2026. May be an image of headscarf, turban, outerwear, overskirt, cloak and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-06.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/907445973_18470747500140257_6456163746623441727_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yGGpon6lxGYQ7kNvwE79Ldp&_nc_oc=AdrtxRiWIYXMHE5KeJyAjOi18CRNqYvahZZDu63Naf8WgYPLbd0oiecxO2BUs_5bBOk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQS3DoIGF8pPhwCP-dd6bkqzrFZmqJV9YxHQ7hNXSwJ6Fw&oe=6B000D4C",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfsMjcTIvU3/",
+      "width": 360,
+      "height": 640,
+      "sha256": "312456877ee1a91bec274341871b2b3773fc86dcc511693e87891ec2916ce018",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-13",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 12, 2026. May be an image of headscarf, scarf, raincoat, jacket, parka and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-07.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/905823587_18470542084140257_665968715088480164_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PjzYEiSF1sEQ7kNvwG0DnRK&_nc_oc=AdpUCpejhPFUCBBYDfYy6R7u8SlN6TMn8-DxZhZBzDpI3TcNSP4TrBA0UtYiXb52UmA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQRH2qLwb2280LyBRDVgXJ1IvU5VoKJ3QIcjEmTMN8ul4Q&oe=6AFFE3BF",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfpfQ2YIFZ7/",
+      "width": 360,
+      "height": 640,
+      "sha256": "6e73cc8050e088ac0822eddd6449456d7d73a5d2a5a9876f236a727ef534040d",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-12",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 12, 2026. May be an image of headscarf, scarf, jacket, turban, parka, coat, cloak and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-08.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/893487928_18470530405140257_950050349933836289_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kpvciaa4iiYQ7kNvwGQJts8&_nc_oc=AdopYB-nwBIQfz-7KHdS6U1B4u-mDTob8jRoVvnNmrHXURVyEhBDhJempJSlK8TNVf8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQTd7_A18H4oZyfXV5SkPjj5KAhZtGvk-2J1J8VT2Skjbw&oe=6AFFF285",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfpWIddI7vS/",
+      "width": 360,
+      "height": 640,
+      "sha256": "9a87a30978af751f799cd0a0dad18a77acae1266b2ee4acf543350518a0b9a1f",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-12",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 11, 2026. May be an image of jacket and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-09.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/897131955_18470329798140257_1238647126685861431_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Dhl1qDlyTFgQ7kNvwHI2X81&_nc_oc=AdoWY4tAOc1r42QQyt8EvCItEJIGDQFYCuc8g23ZQJ1yrzriL1f0ewG8TCg5mCdkdoU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRfJyfXhhvScf7qhZAbwq-2VFjq1-7_8fAOLI9F1l_Jdg&oe=6B000455",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfmojVgIZn-/",
+      "width": 360,
+      "height": 640,
+      "sha256": "6d367c94091bfda867c35c1d3a3b79263a23c27fd9869e92c299bf2299e6fb95",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-11",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 10, 2026. May be an image of duffle coat, overcoat, headscarf, goosedown coat, parka, raincoat, jacket and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-10.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/893399636_18470118181140257_4769168084818283273_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y-MEUgzBsqMQ7kNvwG6LhCb&_nc_oc=AdpE1vQcy8XIkALoUT1HqsWUnO4CL7ztupJ_KTFheVfe9-KhQZUbAcSb1Uj_Z01DBOc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSX7uU_8504v-FNjictJLHqxZzsx2R_HSstMsjxx4U_0g&oe=6B0005D4",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/Dfj-KSwozSo/",
+      "width": 360,
+      "height": 640,
+      "sha256": "b719b72ad584a40429fce223d9055fb6cd6f06c68e86a749359400e793e65aa2",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-10",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 09, 2026. May be an image of scarf, sarong, headscarf and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-11.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/893538637_18469951654140257_7451287945204682599_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RhL5C4VYxm4Q7kNvwEcnnRu&_nc_oc=Ado8DrZU83o4jQhvn2pqFxkFlTs-UtZDr_6QEE0Dspn1HisBUpQzBrUrNeP0ne4IEvs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQjJk3w7QEPH3pzt1nzyuFrSabmIBxA3RwQqhHqk9Bu4g&oe=6AFFDE7D",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfhzBRRIWsM/",
+      "width": 360,
+      "height": 640,
+      "sha256": "ff70376fe4adc028bbb01228b3018c7382826d032b9196e5e98350734f388c1b",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-09",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 09, 2026. May be an image of headscarf, scarf, turban, dress and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-12.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/892342995_18469936045140257_1449624581796644608_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6vophCR77hQQ7kNvwHrz0Tb&_nc_oc=AdqGG-j6BzWR0_zPXHYJ5H96lYC5Cojr_6X-nTL9XY97OXYOgl5XSVR6XhqI7c4-o7s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTPcgwPlygI5Vkg_n1jv8YmG6rsng-udpiVjcXNaJislA&oe=6AFFED5C",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfhlrYSIjqa/",
+      "width": 360,
+      "height": 640,
+      "sha256": "c113f88333648d817bd65f627ef7d564ba5670a57bf6bb3ae17687a7e9c51d1f",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-09",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    },
+    {
+      "alt": "Video by SAMOBOUTIQUE on November 06, 2026. May be an image of sweatpants, coat, fleece, sweatsuit, parka and text.",
+      "path": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-13.jpg",
+      "sourceUrl": "https://scontent.cdninstagram.com/v/t51.82787-15/887051549_18469363015140257_8176637475172831895_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fxbK7c8kx9cQ7kNvwELYb0o&_nc_oc=AdrdaZwnkTYTi52e-0I7y6Esedyp1Y5XPXvz2VUMJt6LlxWCQ2tqtDuPYnyHKfkzMhU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=9CWS8u26ovMdAPjfFSda7w&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSNIQl4wugQsM1C6wcSZ1jFSmuKEU1dXO67rn5AgyRZlg&oe=6AFFE8BB",
+      "sourcePost": "https://www.instagram.com/samoboutique/reel/DfZ98dMIgsn/",
+      "width": 360,
+      "height": 640,
+      "sha256": "dccd328e9cefbddff1647a5e0970d834a3b02a4a80a3b517150f41b6c446e20c",
+      "sourceImageType": "Instagram Reel cover still",
+      "observedDate": "2026-11-15",
+      "aiLabelObserved": false,
+      "observationMethod": "Public rendered Instagram profile/permalink DOM. Samo is explicitly a coauthor of the Assil carousel. Native source still; no video frames extracted.",
+      "postDate": "2026-11-06",
+      "downloadedDate": "2026-11-16",
+      "generatedForProject": false
+    }
+  ],
+  "websiteScreening": {
+    "checkedDate": "2026-11-16",
+    "result": "No matching official website found in checked public links and searches",
+    "queries": [
+      "\"samoboutique\" website shop",
+      "\"81860543\" boutique",
+      "\"Samo Boutique\" Lebanon website"
+    ],
+    "evidence": [
+      "Primary Instagram full bio invites DM or WhatsApp orders81860543. Expanded external links contain only wa.me/96181860543 and a Google Maps coordinate link.",
+      "The linked Maps coordinate33.853397,35.509193 resolves to Haret Hreik with Add a missing place; it is not a business listing with a website.",
+      "Official profile includes November14,13,12,11 and10,2026 public posts.",
+      "A same-name Kyte shop was inspected and excluded as unrelated: SamO Hair & Boutique, Nassau Bahamas,+12425446659, https://samoboutique.beta.kyte.site/en.",
+      "No matching official Lebanese shop domain was found in bounded name/handle/phone searches."
+    ],
+    "uncertainty": "An unlisted or unindexed website cannot be ruled out.",
+    "primaryProfile": "https://www.instagram.com/samoboutique/",
+    "profileEvidence": "profile-links-dom.txt",
+    "mapEvidence": "maps-dom.txt",
+    "collaborationEvidence": "collaboration-dom.txt"
+  },
+  "limitations": [
+    "No matching official website was found in the checked public profile links and bounded business/handle/contact searches; an unlisted website cannot be ruled out.",
+    "Public-source imagery needs owner review before final commercial launch. No generated imagery or extracted video frames.",
+    "Reel covers have native360/361×640 dimensions and must not be enlarged beyond native detail; use the documented full-size photograph(s) for hero views.",
+    "No prices, stock, materials or exact size availability are asserted. Visible price overlays belong to historical source images and are not current catalogue prices."
+  ]
+}

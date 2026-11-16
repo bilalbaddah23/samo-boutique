@@ -1,0 +1,171 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-02.jpg",
+    "sha256": "3a320be9a2101487c9bcfadf82b07c3afe7e243cb10ff78744e13b2a4d0a95de",
+    "originalDimensions": [
+      3024,
+      4032
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-01.jpg",
+    "sha256": "208f741e6f2cad1ffbf08c2cc193018c9d583b37a922e39a1315bc13bf2c0c03",
+    "originalDimensions": [
+      3024,
+      4032
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-03.jpg",
+    "sha256": "eea1ae2051acaf781ca3393a1bee3ecbaf956deda238c0eababaa483bedbd7f1",
+    "originalDimensions": [
+      3024,
+      4032
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-04.jpg",
+    "sha256": "09eac65a7929eac2337effc47751d25d69aa79bc225a74038a917d4319be9c84",
+    "originalDimensions": [
+      3024,
+      4032
+    ],
+    "webDimensions": [
+      1275,
+      1700
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-05.jpg",
+    "sha256": "673e1f53fac69ac9abdefcc32250909957099ef4c60fe2cc95e980663a9e22f5",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-06.jpg",
+    "sha256": "312456877ee1a91bec274341871b2b3773fc86dcc511693e87891ec2916ce018",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-07.jpg",
+    "sha256": "6e73cc8050e088ac0822eddd6449456d7d73a5d2a5a9876f236a727ef534040d",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-10.jpg",
+    "sha256": "b719b72ad584a40429fce223d9055fb6cd6f06c68e86a749359400e793e65aa2",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-08.jpg",
+    "sha256": "9a87a30978af751f799cd0a0dad18a77acae1266b2ee4acf543350518a0b9a1f",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-09.jpg",
+    "sha256": "6d367c94091bfda867c35c1d3a3b79263a23c27fd9869e92c299bf2299e6fb95",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-11.jpg",
+    "sha256": "ff70376fe4adc028bbb01228b3018c7382826d032b9196e5e98350734f388c1b",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-12.jpg",
+    "sha256": "c113f88333648d817bd65f627ef7d564ba5670a57bf6bb3ae17687a7e9c51d1f",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-13.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov15-five\\samo-boutique\\images\\samo-13.jpg",
+    "sha256": "dccd328e9cefbddff1647a5e0970d834a3b02a4a80a3b517150f41b6c446e20c",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  }
+]
